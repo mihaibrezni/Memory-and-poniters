@@ -317,6 +317,8 @@ int add_at(void **arr, int *len, data_structure *data, int index)
 	return 0;
 }
 
+void print(void *arr, int len);
+
 void find(void *data_block, int len, int index)
 {
 	if (index > len || index < 0)
@@ -366,6 +368,8 @@ int delete_at(void **arr, int *len, int index)
 	*arr = realloc(*arr, *len - lungime - sizeof(head));
 
 	*len = *len - lungime - sizeof(head);
+
+	return 0;
 }
 
 void print(void *arr, int len)
