@@ -5,6 +5,3 @@ am prelucrat in fiecare functie cu parametrii continutul.
     Am folosit un cast implicit pentru afisare si parcurgere.
 
 =>O tema destul de frumoasa, greuta, dar cu multe cunostinte dobandite.
-
-PS: tema a fost intr-adevar o joaca cu memoria, dar mai mult s-a jucat ea cu mine =}
-
