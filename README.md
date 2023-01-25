@@ -3,5 +3,5 @@
     In void* arr am copiat continutul lui head cu tot cu padding plus void * data, astfel am prelucrat in fiecare functie cu parametrii continutul.
     Am folosit un cast implicit pentru afisare si parcurgere.
 
-''' O tema foarte frumoasa in care am dobandit multe cunostint.
+''' O tema foarte frumoasa in care am dobandit multe cunostinte.
 '''
